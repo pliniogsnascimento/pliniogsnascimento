@@ -4,4 +4,4 @@
 
 I'm a musician, tech lover and .net coder.
 
-Working as a DevOps/SRE engineer, passionate with automation and CRE culture. Graduated in Systems Analysis and Development at São Caetano do Sul Technological College in Brazil.
+Working as a DevOps/SRE engineer, passionate with containers technologies and CRE culture. Graduated in Systems Analysis and Development at São Caetano do Sul Technological College in Brazil.
