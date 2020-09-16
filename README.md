@@ -5,3 +5,5 @@
 I'm a musician, tech lover and .net coder.
 
 Working as a DevOps/SRE engineer, passionate with containers technologies and CRE culture. Graduated in Systems Analysis and Development at São Caetano do Sul Technological College in Brazil.
+
+[![Plinio's github stats](https://github-readme-stats.vercel.app/api?username=pliniogsnascimento)](https://github.com/pliniogsnascimento/github-readme-stats)
