@@ -8,5 +8,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plinio-nascimento-8b4ab6146/)](https://www.linkedin.com/in/plinio-nascimento-8b4ab6146/)
 
  - Working as a DevOps/SRE engineer
- - Passionate with containers technologies and CRE culture 
+ - Passionate with containers technologies
  - Graduated in Systems Analysis and Development at São Caetano do Sul Technological College in Brazil.
